@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently learning JS
 
-- 👨‍💻 More at [emilyzugel.dev](https://emilyzugelportifolio.com)
+- 👨‍💻 More at [emilyzugel.design](https://emilyzugel21.wixsite.com/design)
 
 <br>
 
