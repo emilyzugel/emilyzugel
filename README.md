@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/emilyzugel/emilyzugel/09d489ba30e2015e72bad22555979a081f1a9739/Mobile.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/emilyzugel/emilyzugel/3cc5a33c0069a484280592d2084c22b96179366f/carddev.svg"/>
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hi ,I'm Emily Zügel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilyzugel&color=yellow" alt="Profile views" /> </p>
 
