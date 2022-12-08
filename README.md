@@ -6,7 +6,7 @@
 🔭 I'm currently learning JS<br>
 🌏 I'm poliglot and love other cultures<br>
 🤓 Okay I'm a nerdy<br>
-🌐 My design at [emilyzugel.design](https://emilyzugel21.wixsite.com/design)
+🌐 My designs at [emilyzugel.design](https://emilyzugel21.wixsite.com/design)
 <br>
 
 # Tech Stack:
