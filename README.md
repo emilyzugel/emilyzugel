@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/emilyzugel/emilyzugel/4a69951ea001cb961d1e1ae5cc3f14643a98ecf0/carddev.svg"/>
-<h1 align="left">Hi, I'm Emily Zügel!</h1>
+<h1 align="left">Hi, I'm Emily!</h1>
 
 <!--Tech Stack-->
 ### Skills:
