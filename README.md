@@ -1,12 +1,6 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/emilyzugel/emilyzugel/4a69951ea001cb961d1e1ae5cc3f14643a98ecf0/carddev.svg"/>
 <h1 align="left">Hi, I'm Emily Zügel!</h1>
 
-# About Me:
-👩🏻‍💻 Front-End & Web Design self-student<br>
-🔭 I'm currently learning JS<br>
-🌐 My portifolio at [emilyzugel.portifolio](https://emilyzugel.github.io/My-Portifolio/)
-<br>
-
 # Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
