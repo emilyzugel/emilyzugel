@@ -3,7 +3,7 @@
 
 <!--Tech Stack-->
 ### Learning Skills:
-<p align="left">
+<p style="display: inline-block;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="ArchLinux" width="25" height="24" style="margin: 50px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="javascript" width="25" height="25" style="margin: 50px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="25" height="25" style="margin: 50px;" />
