@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/emilyzugel/emilyzugel/4a69951ea001cb961d1e1ae5cc3f14643a98ecf0/carddev.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/emilyzugel/emilyzugel/afc0c38ed1ee299d9a2b22824797dce02aaf63dc/carddev.svg"/>
 <h1 align="left">Hi, I'm Emily!</h1>
 
 <!--Tech Stack-->
