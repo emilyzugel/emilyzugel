@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Emily!</h1>
-<img align="right" height="590em" src="https://raw.githubusercontent.com/emilyzugel/emilyzugel/0f5bcbf3be6dc1389dba3b3fbc4a0e546e4ab68a/carddev.svg"/> 
+<img align="right" height="590em" src="./carddev.svg"/> 
 
 ### Learning Skills:
 <p>
