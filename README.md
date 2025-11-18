@@ -1,7 +1,7 @@
 <h1>Hi, I'm Emily!</h1>
-<img align="right" height="500rem" width="auto" style="top: 0;" src="./carddev.svg"/>
+<img align="right" height="490rem" width="auto" style="top: 0;" src="./carddev.svg"/>
 
-**`FullStack Dev`**
+**`FullStack Developer`**
 
 ## My Skills:
 #### Development:
